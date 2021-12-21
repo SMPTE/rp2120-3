@@ -14,8 +14,8 @@ Your feedback is welcome at https://github.com/SMPTE/rp2120-3/issues or at [32nf
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements are made available for a public review period ending no earlier than {YYYY-MM-DD}, and no later than
-{YYYY-MM-DD}:
+The following elements are made available for a public review period ending no earlier than 2022-06-02, and no later than
+2023-01-05:
 
 * [RP 2120-3](./32NF-PCD-RP-2120-3-TLX-Profiles-2021-12-15.pdf)
 * [rp-2120-3-tlx-profiles-2021.json]()
