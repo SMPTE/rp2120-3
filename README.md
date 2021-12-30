@@ -18,7 +18,7 @@ The following elements are made available for a public review period ending no e
 2023-01-05:
 
 * [RP 2120-3](./32NF-PCD-RP-2120-3-TLX-Profiles-2021-12-15.pdf)
-* [rp-2120-3-tlx-profiles-2021.json]()
+* [rp-2120-3-tlx-profiles-2021.json](https://github.com/SMPTE/smpte-32nf-tlx/blob/a27de9595aabeb7222db50c79379c421379bebae/json/schemas/smpte-tlx-profiles-2021.json)
 
 ## ST 2120 Extensible Time Label (TLX) Suite Intro
 
